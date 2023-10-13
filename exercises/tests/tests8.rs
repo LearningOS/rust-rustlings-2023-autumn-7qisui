@@ -22,4 +22,4 @@ mod tests {
 
         panic!("no cfg set");
     }
-}
+}   
